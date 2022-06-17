@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\bin\Debug\netcoreapp3.1\5-Z.exe
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\bin\Debug\netcoreapp3.1\5-Z.deps.json
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\bin\Debug\netcoreapp3.1\5-Z.runtimeconfig.json
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\bin\Debug\netcoreapp3.1\5-Z.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\bin\Debug\netcoreapp3.1\5-Z.dll
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\bin\Debug\netcoreapp3.1\5-Z.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\obj\Debug\netcoreapp3.1\5-Z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\obj\Debug\netcoreapp3.1\5-Z.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\obj\Debug\netcoreapp3.1\5-Z.AssemblyInfo.cs
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\obj\Debug\netcoreapp3.1\5-Z.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\obj\Debug\netcoreapp3.1\5-Z.dll
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\obj\Debug\netcoreapp3.1\5-Z.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\Parallel\5-Z\obj\Debug\netcoreapp3.1\5-Z.genruntimeconfig.cache
